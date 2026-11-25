@@ -1,0 +1,5 @@
+Photos produits RWAFA (format 4:5, par ex. 1024x1280).
+Nom : <id-produit>-face.jpg (devant), -dos.jpg (dos), -manche.jpg (manche, optionnel).
+Produits : yaz-hoodie, arrif-hoodie, tazerbit-hoodie, adrar-hoodie, marchica-hoodie, alhoceima-hoodie,
+nador-zip-hoodie, yaz-crew, rwafa-logo-hoodie, yaz-tee, tazerbit-tee, tazerbit-socks, yaz-socks.
+Autres : collection-arc1.jpg, collection-arc2.jpg, collection-ess.jpg, about.jpg.
